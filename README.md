@@ -1,0 +1,1 @@
+# Como-ver-version-ios-desde-dfu
